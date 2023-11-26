@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d192262c-2bd9-491f-a584-6756e544c1d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AppArrays/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppArrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppArrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppArrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppArrays/AppArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppArrays/out/production/AppArrays/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppArrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayMulti/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayMulti/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayMulti/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayMulti/ArrayMulti.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayMulti/out/production/ArrayMulti/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayMulti/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_Game/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QALAB2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texto2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
